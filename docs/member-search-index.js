@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Status","l":"AVAILABLE"},{"p":"<Unnamed>","c":"Status","l":"CHECKED_OUT"},{"p":"<Unnamed>","c":"Status","l":"OVERDUE"},{"p":"<Unnamed>","c":"Status","l":"valueOf(String)","u":"valueOf(java.lang.String)"},{"p":"<Unnamed>","c":"Status","l":"values()"}];updateSearchResults();
